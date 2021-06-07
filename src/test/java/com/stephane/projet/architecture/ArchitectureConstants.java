@@ -1,6 +1,12 @@
 package com.stephane.projet.architecture;
 
 public class ArchitectureConstants {
+    // Suffixes
+    public static final String CONTROLLER_SUFFIX = "Controller";
+    public static final String REPOSITORY_SUFFIX = "Repository";
+    public static final String SERVICE_SUFFIX = "Service";
+    public static final String DTO_SUFFIX = "Dto";
+    public static final String MAPPER_SUFFIX = "Mapper";
     // Packages
     public static final String CONFIG_PACKAGE = "..config..";
     public static final String CONTROLLER_PACKAGE = "..controller..";
